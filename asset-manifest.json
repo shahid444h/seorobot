@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seorobot/static/css/main.620afa31.css",
+    "main.js": "/seorobot/static/js/main.f2c14215.js",
+    "static/js/787.81dc7098.chunk.js": "/seorobot/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/seorobot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/seorobot/index.html",
+    "main.620afa31.css.map": "/seorobot/static/css/main.620afa31.css.map",
+    "main.f2c14215.js.map": "/seorobot/static/js/main.f2c14215.js.map",
+    "787.81dc7098.chunk.js.map": "/seorobot/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620afa31.css",
+    "static/js/main.f2c14215.js"
+  ]
+}
